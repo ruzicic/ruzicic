@@ -4,7 +4,7 @@ Welcome to my GitHub profile. I'm Mladen Ruzicic.
 
 ---
 
-I work at [HEGIAS](https://hegias.com/) :switzerland: as a Senior :rocket: Full Stack Developer.
+I work at [Shopify](https://shopify.com/) :switzerland: as a Senior Software Developer.
 
 
 ## Contact
