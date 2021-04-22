@@ -1,11 +1,8 @@
 ## :wave: Hey, you!
 
-Welcome to my GitHub profile. I'm Mladen Ruzicic.
+Welcome to my GitHub profile. 
 
----
-
-I work at [Shopify](https://shopify.com/) :switzerland: as a Senior Software Developer.
-
+I'm Mladen Ruzicic, Swiss :switzerland: based Software Developer working at [Shopify](https://shopify.com/).
 
 ## Contact
 - `ruzicic@gmail.com`
