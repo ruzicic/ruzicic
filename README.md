@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile. 
 
-I'm Mladen Ruzicic, Swiss :switzerland: based Software Developer working at [Shopify](https://shopify.com/).
+I'm Mladen Ruzicic, Swiss :switzerland: based Software Developer working at [ZF](https://zf.com/).
 
 ## Contact
 - [mladenruzicic.com](https://mladenruzicic.com)
